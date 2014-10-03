@@ -1,0 +1,6 @@
+#ifndef agents_testframework_graph_graphvisitortest_h
+#define agents_testframework_graph_graphvisitortest_h
+
+extern void ensureGraphVisitorTestLink();
+
+#endif // agents_testframework_graph_graphvisitortest_h

@@ -1,0 +1,6 @@
+#ifndef agents_testframework_graph_graphcopytopologytest_h
+#define agents_testframework_graph_graphcopytopologytest_h
+
+extern void ensureGraphCopyTopologyTestLink();
+
+#endif // agents_testframework_graph_graphcopytopologytest_h

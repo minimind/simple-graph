@@ -1,0 +1,6 @@
+#ifndef agents_testframework_graph_graphconstructiontest_h
+#define agents_testframework_graph_graphconstructiontest_h
+
+extern void ensureGraphConstructionTestLink();
+
+#endif // agents_testframework_graph_graphconstructiontest_h

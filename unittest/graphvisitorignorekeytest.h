@@ -1,0 +1,6 @@
+#ifndef agents_testframework_graph_graphvisitorignorekeytest_h
+#define agents_testframework_graph_graphvisitorignorekeytest_h
+
+extern void ensureGraphVisitorIgnoreKeyTestLink();
+
+#endif // agents_testframework_graph_graphvisitorignorekeytest_h

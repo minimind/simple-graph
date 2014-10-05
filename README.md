@@ -4,11 +4,11 @@
 
 The `graph` project is a straightforward C++ graph template class with all
 the usual STL-style iterators. It compiles on recent versions of GNU c++,
-clang, XCode, and Visual C++.
+clang, XCode, and Visual C++. It includes comprehensive unit tests.
 
 To install, simply copy the `graph` directory somewhere on your `include` path.
 
-To compile and run on a UNIX-style machine, do:
+To compile and run the unit tests on a UNIX-style machine:
 
 ```bash
 make
